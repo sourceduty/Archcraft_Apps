@@ -37,6 +37,12 @@ Arduino IDE:
 ```
 sudo pacman -S arduino
 ```
+
 #
+### Related Links
+
+[Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
+<br>
 [Complete Archcraft App List](https://wiki.archlinux.org/title/list_of_applications#Architecture)
-#
+
+***
